@@ -1,0 +1,23 @@
+<!-- 
+  
+-->
+
+<ResipeList>
+
+  <Recipe>
+    <Name>Bandage</Name>
+    <GameName>Bandage</GameName>
+    <Description>Description</Description>
+    <IconName>IconBandage</IconName>
+    <CraftItem>Bandage</CraftItem>
+    <CastEnergy>1</CastEnergy>
+    <AddExp>1</AddExp>
+
+    <ItemInventory>
+      
+    </ItemInventory>
+
+    
+</Recipe>
+
+</ResipeList>

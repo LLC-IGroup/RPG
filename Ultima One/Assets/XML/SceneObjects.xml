@@ -1,0 +1,41 @@
+<!-- 
+  
+  <Inventory volume="0" mass="0">
+    <Item name="Name" count="0" />
+  </Inventory>
+  
+-->
+
+<SceneObjectList>
+  
+  <SceneObject>
+    <Name>AppleTree</Name>
+    <GameName>Apple Tree</GameName>
+    <Description>Base AppleTree Desscription</Description>
+    <IconName>IconName</IconName>
+    <Quality>1</Quality>
+    <HP>1000</HP>
+    <DropInventory volume="0" mass="0">
+      <Item name="IronAxe" count="1" />
+    </DropInventory>
+  </SceneObject>
+  
+   <SceneObject>
+    <Name>Barrel</Name>
+    <GameName>Wood Barrel</GameName>
+    <Description>Wood Desscription</Description>
+    <IconName>IconWoodBarrel</IconName>
+    <Quality>1</Quality>
+    <HP>1000</HP>
+    <ItemInventory volume="100" mass="100">
+      <Item name="IronAxe" count="1" />
+      <Item name="IronHammer" count="1" />
+    </ItemInventory>
+   <DropInventory volume="0" mass="0">
+     <Item name="IronAxe" count="1" />
+    </DropInventory>
+  </SceneObject>
+
+  
+
+</SceneObjectList>

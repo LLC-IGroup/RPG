@@ -1,0 +1,15 @@
+<!-- 
+  
+-->
+
+<BuffList>
+  
+  <Buff>
+    <Name>CritPower</Name>
+    <GameName>CritPower</GameName>
+    <Description>Description</Description>
+    <IconName>IconCritPower</IconName>
+    <LiveTime>3</LiveTime>
+  </Buff>
+  
+</BuffList>

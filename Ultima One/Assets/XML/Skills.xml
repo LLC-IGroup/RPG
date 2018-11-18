@@ -1,0 +1,17 @@
+<!-- 
+  
+-->
+
+<SkillList>
+  
+  <Skill SkillType="ACTIVE">
+    <Name>BaseAttack</Name>
+    <GameName>Base Attack</GameName>
+    <Description>Description</Description>
+    <IconName>IconBaseAttack</IconName>
+    <CastTime>0.3</CastTime>
+    <CoolDown>0.2</CoolDown>
+    <PrefabName>BaseAttack</PrefabName> 
+  </Skill>
+  
+</SkillList>

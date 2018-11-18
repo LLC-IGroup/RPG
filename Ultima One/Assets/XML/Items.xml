@@ -1,0 +1,387 @@
+<!-- 
+<Item ItemType="ItemType">
+    /// Base Item
+    <Name>Name</Name>
+    <GameName>GameName</GameName>
+    <ItemType>temType</ItemType>
+    <Description>Description</Description>
+    <Quality>Quality</Quality>
+    <MinQuality>MinQuality</MinQuality>
+    <Durability>Durability</Durability>
+    <MaxDurability>MaxDurability</MaxDurability>
+    <IconName>IconName</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>Stuck</Stuck>
+    <MaxStuck>MaxStuck</MaxStuck>
+    <Volume>Volume</Volume>
+    <Mass>Mass</Mass>
+    <MinPrice>MinPrice</MinPrice>
+</Item>
+-->
+
+<ItemsList>
+  <Item ItemType="RESOURCES">
+    <Name>BandageBelt</Name>
+    <GameName>Bandage Belt</GameName>
+    <Description>Bandage Belt</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>BandageIcon</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>true</Stuck>
+    <MaxStuck>10</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+
+  </Item>
+  
+  <!--Tool Set -->
+  <Item ItemType="TOOL">
+    <Name>IronAxe</Name>
+    <GameName>Iron Axe</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconIronAxe</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+
+  </Item>
+
+  <Item ItemType="TOOL">
+    <Name>IronHammer</Name>
+    <GameName>Iron Hammer</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconIronHammer</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="TOOL">
+    <Name>IronKnife</Name>
+    <GameName>Iron Knife</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconIronKnife</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="TOOL">
+    <Name>IronNeedle</Name>
+    <GameName>Iron Needle</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconIronNeedle</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="TOOL">
+    <Name>IronPickaxe</Name>
+    <GameName>Iron Pickaxe</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconIronPickaxe</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="TOOL">
+    <Name>IronPliers</Name>
+    <GameName>Iron Pliers</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconIronPliers</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="TOOL">
+    <Name>IronSaw</Name>
+    <GameName>Iron Saw</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconIronSaw</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="TOOL">
+    <Name>IronScissors</Name>
+    <GameName>Iron Scissors</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconIronScissors</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="TOOL">
+    <Name>IronShovel</Name>
+    <GameName>Iron Shovel</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconIronShovel</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="TOOL">
+    <Name>IronSickle</Name>
+    <GameName>Iron Sickle</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconIronSickle</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <!-- Equip Items-->
+  <Item ItemType="HELMET">
+    <Name>CottunCap</Name>
+    <GameName>CottunCap</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconCottunCap</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="ARMOR">
+    <Name>CottonShirt</Name>
+    <GameName>Cotton Shirt</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconCottonShirt</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="BOOTS">
+    <Name>CottunBoots</Name>
+    <GameName>Cottun Boots</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconCottunBoots</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="CLOAK">
+    <Name>CottunCloak</Name>
+    <GameName>Cottun Cloak</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconCottunCloak</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="AMULET">
+    <Name>GoldAmulet</Name>
+    <GameName>Gold Amulet</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconGoldAmulet</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="RING">
+    <Name>GoldRing</Name>
+    <GameName>Gold Ring</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconGoldRing</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="BELT">
+    <Name>LeatherBelt</Name>
+    <GameName>Leather Belt</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconLeatherBelt</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="GLOVES">
+    <Name>LeatherGloves</Name>
+    <GameName>Leather Gloves</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconLeatherGloves</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+  <Item ItemType="PANTS">
+    <Name>LeatherPants</Name>
+    <GameName>Leather Pants</GameName>
+    <Description>Description</Description>
+    <Quality>1</Quality>
+    <MinQuality>1</MinQuality>
+    <Durability>1</Durability>
+    <MaxDurability>1</MaxDurability>
+    <IconName>IconLeatherPants</IconName>
+    <ModelName>ModelName</ModelName>
+    <Stuck>false</Stuck>
+    <MaxStuck>1</MaxStuck>
+    <Volume>1</Volume>
+    <Mass>1</Mass>
+    <MinPrice>1</MinPrice>
+    <Use>false</Use>
+  </Item>
+
+</ItemsList>
